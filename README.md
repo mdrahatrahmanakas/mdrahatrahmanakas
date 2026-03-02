@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=800&color=00B4D8&center=true&vCenter=true&width=650&lines=%F0%9F%94%90+Breaking+systems+to+build+better+defenses;%F0%9F%95%B5%EF%B8%8F+Threat+hunter+%7C+Blue+%26+Red+Team+mindset;%F0%9F%93%A1+SOC+%7C+SIEM+%7C+IAM+%7C+GRC+practitioner;%F0%9F%93%8D+Based+in+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9+%7C+Open+to+remote+opportunities" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=800&color=00B4D8&center=true&vCenter=true&width=650&lines=🔐+Breaking+systems+to+build+better+defenses;🕵️+Threat+hunter+%7C+Blue+%26+Red+Team+mindset;📡+SOC+%7C+SIEM+%7C+IAM+%7C+GRC+practitioner;📍+Based+in+Bangladesh+🇧🇩+%7C+Open+to+remote+opportunities" />
 </div>
 
 <br/>
@@ -19,7 +19,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/mdrahatrahmanakas">
-    <img src="https://img.shields.io/badge/-Rahat51--hub-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-mdrahatrahmanakas-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=mdrahatrahmanakas&style=flat-square&color=00b4d8&label=profile+views" />
