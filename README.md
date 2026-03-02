@@ -18,11 +18,11 @@
     <img src="https://img.shields.io/badge/-farhanrahat51@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://github.com/Rahat51-hub">
+  <a href="https://github.com/mdrahatrahmanakas">
     <img src="https://img.shields.io/badge/-Rahat51--hub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Rahat51-hub&style=flat-square&color=00b4d8&label=profile+views" />
+  <img src="https://komarev.com/ghpvc/?username=mdrahatrahmanakas&style=flat-square&color=00b4d8&label=profile+views" />
 </div>
 
 ---
@@ -118,50 +118,73 @@ My core focus:  ► Penetration Testing & Exploit Mapping
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Rahat51-hub&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&icon_color=00b4d8&border_color=21262d&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahat51-hub&layout=compact&theme=github_dark&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&border_color=21262d" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mdrahatrahmanakas&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&icon_color=00b4d8&border_color=21262d&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrahatrahmanakas&layout=compact&theme=github_dark&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&border_color=21262d" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Rahat51-hub&theme=github-dark-blue&background=0d1117&border=21262d&stroke=00b4d8&ring=00b4d8&fire=ff6b35&currStreakLabel=00b4d8&sideLabels=90e0ef&dates=555&currStreakNum=ffffff&sideNums=ffffff" />
+  <img src="https://streak-stats.demolab.com?user=mdrahatrahmanakas&theme=github-dark-blue&background=0d1117&border=21262d&stroke=00b4d8&ring=00b4d8&fire=ff6b35&currStreakLabel=00b4d8&sideLabels=90e0ef&dates=555&currStreakNum=ffffff&sideNums=ffffff" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahat51-hub&bg_color=0d1117&color=00b4d8&line=0a3d62&point=00b4d8&area=true&area_color=0a3d62&hide_border=true&radius=6" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rahat51-hub&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</div>
-
----
-
-## 🗺️ Current Focus & Roadmap
 
 ```
-2025 ─────────────────────────────────────────────────────────────────────────────
+ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+ ░  We are Anonymous. We are Legion.                             ░
+ ░  We do not forgive. We do not forget.                        ░
+ ░  Expect us.                              — /b/, 2003         ░
+ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
 
-  Q1-Q2  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░  [In Progress]  CompTIA Security+
-  Q2-Q3  ▓▓▓▓▓▓▓▓░░░░░░░░░░░░  [Studying]     CEH — Certified Ethical Hacker
-  Q3     ░░░░░░░░░░░░░░░░░░░░  [Planned]      PNPT — Practical Network PenTest
-  Q3-Q4  ░░░░░░░░░░░░░░░░░░░░  [Planned]      eJPT / OSCP Path
+</div>
 
-2026 ─────────────────────────────────────────────────────────────────────────────
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdrahatrahmanakas&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=003b00&hide_border=true&radius=6&title_color=00ff41" />
+</div>
 
-         ░░░░░░░░░░░░░░░░░░░░  [Target]       OSCP — Offensive Security Certified Pro
-         ░░░░░░░░░░░░░░░░░░░░  [Target]       SC-200 Microsoft Security Operations
+<div align="center">
 
-🔬 Active Projects:
-  → Homelab SOC      : Wazuh + ELK Stack + custom detection rules
-  → Threat Hunting   : MITRE ATT&CK-based TTP correlation lab
-  → CTF Practice     : HackTheBox / TryHackMe — Regular challenges
-  → Detection Eng.   : Writing Sigma rules for common attack patterns
+```
+  [!] SYSTEM BREACH DETECTED ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  [+] Scanning target...          ████████████████████  100%
+  [+] Enumerating services...     ████████████████████  100%
+  [+] Exploiting vulnerabilities. ████████████████████  100%
+  [+] Escalating privileges...    ████████████████████  100%
+  [✓] root@target:~# ACCESS GRANTED
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mdrahatrahmanakas/mdrahatrahmanakas/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 🏅 Certifications
+
+```bash
+$ ls -1 ~/certs/verified/
+```
+
+| Badge | Certification | Issuer |
+|:---:|---|---|
+| 🔐 | **ISO/IEC 27001:2022 Lead Auditor** | Mastermind |
+| 🎓 | **Certified Cybersecurity Educator Professional (CCEP)** | Red Team Leaders |
+| 🛡️ | **ISO/IEC 27001:2022 Information Security Associate™** | SkillFront |
+| 🦅 | **Ethical Hacker** | Cisco Networking Academy |
+| 🏢 | **Student SOC Program Foundations Training** | Microsoft |
+
+```
+Skills validated across certifications:
+  ► Penetration Testing & Vulnerability Assessment
+  ► Exploiting Networks & Applications · IoT Security
+  ► ISO 27001 Audit & Information Security Management
+  ► SOC Operations Foundations · Incident Handling
+  ► Cybersecurity Education & Knowledge Transfer
 ```
 
 ---
