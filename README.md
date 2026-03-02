@@ -9,7 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-rahat-rahman-akas-3a51552aa)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:farhanrahat51@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mdrahatrahmanakas)
-[![Visitors](https://komarev.com/ghpvc/?username=mdrahatrahmanakas&style=flat-square&color=00b4d8&label=visitors)](https://github.com/mdrahatrahmanakas)
 
 </div>
 
@@ -75,7 +74,7 @@ My approach integrates **offensive testing** — including Penetration Testing a
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white)
+![Burp Suite Pro](https://img.shields.io/badge/Burp_Suite_Pro-FF6633?style=flat-square&logo=burp-suite&logoColor=white)
 ![Nessus](https://img.shields.io/badge/Nessus-00C176?style=flat-square&logo=tenable&logoColor=white)
 ![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=flat-square&logo=gnu&logoColor=white)
 
@@ -113,13 +112,9 @@ My approach integrates **offensive testing** — including Penetration Testing a
 
 <div align="center">
 
-<img height="155em" src="https://github-stats-alpha.vercel.app/api?username=mdrahatrahmanakas&cc=0d1117&tc=00b4d8&ic=90e0ef&bc=21262d"/>
-
-
-<img src="https://streak-stats.demolab.com?user=mdrahatrahmanakas&theme=github-dark-blue&background=0d1117&border=21262d&stroke=00b4d8&ring=00b4d8&fire=ff6b35&currStreakLabel=00b4d8&sideLabels=90e0ef&dates=6e7681&currStreakNum=ffffff&sideNums=ffffff"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdrahatrahmanakas&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ffffff&area=true&area_color=0a3d62&hide_border=true&radius=6"/>
-
+<div align="center">
+<img height="155em" src="https://github-stats-alpha.vercel.app/api?username=mdrahatrahmanakas&cc=0d1117&tc=FF4444&ic=FF8C00&bc=21262d"/>
+<img src="https://streak-stats.demolab.com?user=mdrahatrahmanakas&theme=github-dark-blue&background=0d1117&border=21262d&stroke=FF4444&ring=FF4444&fire=FF6B35&currStreakLabel=FF4444&sideLabels=FF8C00&dates=6e7681&currStreakNum=ffffff&sideNums=ffffff"/>
 </div>
 
 ---
@@ -128,10 +123,7 @@ My approach integrates **offensive testing** — including Penetration Testing a
 
 <div align="center">
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://hackthebox.com)
-[![LetsDefend](https://img.shields.io/badge/LetsDefend-1A73E8?style=flat-square&logo=shield&logoColor=white)](https://letsdefend.io)
-[![CyberDefenders](https://img.shields.io/badge/CyberDefenders-0F4C75?style=flat-square&logo=shield&logoColor=white)](https://cyberdefenders.org)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Rahat404x)
 
 </div>
 
