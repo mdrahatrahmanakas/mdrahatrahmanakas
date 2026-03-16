@@ -1,52 +1,71 @@
 <div align="center">
 
-<h1>Md Rahat Rahman Akas</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3500&pause=1000&color=00B4D8&center=true&vCenter=true&width=620&lines=ISO+27001%3A2022+Lead+Auditor;Cybersecurity+Specialist+%7C+PenTest+NextGen;GRC+%26+SOC+Operations+Expert;Protecting+Digital+Assets+Through+Strategic+Compliance" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,080c10,00b4d8&height=140&section=header&text=Md%20Rahat%20Rahman%20Akas&fontSize=36&fontColor=ffffff&fontAlignY=45&desc=ISO%2027001%3A2022%20Lead%20Auditor%20%7C%20Cybersecurity%20Specialist&descSize=13&descAlignY=68&descColor=00b4d8" width="100%"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-rahat-rahman-akas-3a51552aa)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:farhanrahat51@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mdrahatrahmanakas)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3500&pause=1000&color=00B4D8&center=true&vCenter=true&width=640&lines=ISO+27001%3A2022+Lead+Auditor;GRC+%26+SOC+Operations+Expert;PenTest+%7C+Detection+Engineering+%7C+IAM;Protecting+Digital+Assets+Through+Strategic+Compliance" alt="Typing SVG" />
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-rahat-rahman-akas-3a51552aa)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhanrahat51@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdrahatrahmanakas)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Rahat404x)
 
 </div>
 
----
+<br/>
 
-## `$ whoami`
-
-```yaml
-Name      : Md Rahat Rahman Akas
-Title     : ISO 27001:2022 Lead Auditor | Cybersecurity Specialist
-Focus     : GRC & SOC Operations | PenTest | IAM | Strategic Compliance
-Location  : Dhaka, Bangladesh
-Education : University of the People
-Status    : Open to Remote / Hybrid Opportunities
+```python
+┌─────────────────────────────────────────────────────────────────────┐
+│  $ whoami                                                           │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                     │
+│  Name      :  Md Rahat Rahman Akas                                  │
+│  Title     :  ISO 27001:2022 Lead Auditor | Cybersecurity Specialist│
+│  Focus     :  GRC · SOC Operations · PenTest · IAM · Compliance    │
+│  Location  :  Dhaka, Bangladesh                                     │
+│  Education :  University of the People                              │
+│  Status    :  ● Open to Remote / Hybrid Opportunities              │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
 ```
 
-> I bridge the gap between technical security operations and high-level business compliance.
-> As an ISO 27001:2022 Lead Auditor and Cybersecurity Specialist, I don't just identify
-> vulnerabilities — **I build the frameworks that prevent them.**
+<br/>
 
-My approach integrates **offensive testing** — including Penetration Testing and Exploit Mapping — with **defensive governance** like SOC and IAM, to ensure that security is an enabler of business continuity, not a bottleneck.
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1&pause=999999&color=00B4D8&center=true&vCenter=true&width=700&lines=%22I+don%27t+just+identify+vulnerabilities+%E2%80%94+I+build+the+frameworks+that+prevent+them.%22" alt="Quote"/>
+</div>
 
----
-
-## What I Bring to the Table
-
-| | Area | Description |
-|:---:|:---|:---|
-| 📋 | **Compliance Leadership** | Leading ISO 27001 audits and designing GRC frameworks aligned with global regulatory standards |
-| 🔵 | **Technical Defense** | SOC operations, forensic analysis, and Identity & Access Management (IAM) |
-| 🔴 | **Offensive Insight** | Hands-on vulnerability assessment and penetration testing to stay ahead of evolving threats |
-| 📈 | **Strategic Growth** | Designing scalable security architectures that keep organizations compliant and competitive |
+<br/>
 
 ---
 
-## Skills
+## `▸ cat approach.json`
 
-**Network Security**
+<br/>
+
+<div align="center">
+
+| | Domain | What I Do |
+|:---:|:---:|:---|
+| 🛡️ | **Compliance Leadership** | ISO 27001 audits & GRC frameworks aligned with global regulatory standards |
+| 🔵 | **Technical Defense** | SOC operations, forensic analysis, and Identity & Access Management |
+| 🔴 | **Offensive Insight** | Hands-on vulnerability assessment and penetration testing |
+| 📐 | **Strategic Architecture** | Scalable security designs that keep organizations compliant & competitive |
+
+</div>
+
+<br/>
+
+---
+
+## `▸ ls skills/`
+
+<br/>
+
+**`📡 Network Security`**
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-00469C?style=flat-square&logo=nmap&logoColor=white)
@@ -55,7 +74,7 @@ My approach integrates **offensive testing** — including Penetration Testing a
 ![Suricata](https://img.shields.io/badge/Suricata-EF5B25?style=flat-square&logo=suricata&logoColor=white)
 ![Netcat](https://img.shields.io/badge/Netcat-000000?style=flat-square&logo=gnu&logoColor=white)
 
-**Endpoint & EDR**
+**`🖥️ Endpoint & EDR`**
 
 ![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![Velociraptor](https://img.shields.io/badge/Velociraptor-8B0000?style=flat-square&logo=linux&logoColor=white)
@@ -63,14 +82,14 @@ My approach integrates **offensive testing** — including Penetration Testing a
 ![OSQuery](https://img.shields.io/badge/OSQuery-1A73E8?style=flat-square&logo=osquery&logoColor=white)
 ![CrowdStrike](https://img.shields.io/badge/CrowdStrike-E31B23?style=flat-square&logo=crowdstrike&logoColor=white)
 
-**SIEM & Log Management**
+**`📊 SIEM & Log Management`**
 
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
 ![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-3B86D4?style=flat-square&logo=wazuh&logoColor=white)
 ![Graylog](https://img.shields.io/badge/Graylog-FF3633?style=flat-square&logo=graylog&logoColor=white)
 
-**Offensive Security**
+**`⚔️ Offensive Security`**
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
@@ -78,7 +97,7 @@ My approach integrates **offensive testing** — including Penetration Testing a
 ![Nessus](https://img.shields.io/badge/Nessus-00C176?style=flat-square&logo=tenable&logoColor=white)
 ![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=flat-square&logo=gnu&logoColor=white)
 
-**Scripting & Automation**
+**`⚙️ Scripting & Automation`**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
@@ -86,7 +105,7 @@ My approach integrates **offensive testing** — including Penetration Testing a
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-**Frameworks & Standards**
+**`📋 Frameworks & Standards`**
 
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-E31B23?style=flat-square&logoColor=white)
 ![NIST CSF](https://img.shields.io/badge/NIST_CSF-003366?style=flat-square&logoColor=white)
@@ -94,57 +113,63 @@ My approach integrates **offensive testing** — including Penetration Testing a
 ![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
 ![Cyber Kill Chain](https://img.shields.io/badge/Cyber_Kill_Chain-8B0000?style=flat-square&logoColor=white)
 
----
-
-## Certifications
-
-| | Certification | Issuer |
-|:---:|:---|:---|
-| 🔐 | **ISO/IEC 27001:2022 Lead Auditor** | Mastermind |
-| 🎓 | **Certified Cybersecurity Educator Professional (CCEP)** | Red Team Leaders |
-| 🛡️ | **ISO/IEC 27001:2022 Information Security Associate™** | SkillFront |
-| 🦅 | **Ethical Hacker** | Cisco Networking Academy |
-| 🏢 | **Student SOC Program Foundations Training** | Microsoft |
+<br/>
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<div align="center">
-<img height="155em" src="https://github-stats-alpha.vercel.app/api?username=mdrahatrahmanakas&cc=0d1117&tc=FF4444&ic=FF8C00&bc=21262d"/>
-<img src="https://streak-stats.demolab.com?user=mdrahatrahmanakas&theme=github-dark-blue&background=0d1117&border=21262d&stroke=FF4444&ring=FF4444&fire=FF6B35&currStreakLabel=FF4444&sideLabels=FF8C00&dates=6e7681&currStreakNum=ffffff&sideNums=ffffff"/>
-</div>
-
----
-
-## Practice Platforms
-
-<div align="center">
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Rahat404x)
-
-</div>
-
----
-
-## Let's Connect
-
-<div align="center">
-
-*I am passionate about helping businesses achieve true resilience by embedding security into the DNA of their processes.*
-
-*Open to collaborating on security research, CTF challenges, detection engineering, and GRC consulting.*
+## `▸ cat certifications.list`
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-rahat-rahman-akas-3a51552aa)
-&nbsp;
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhanrahat51@gmail.com)
+```bash
+[✓] ISO/IEC 27001:2022 Lead Auditor                        → Mastermind
+[✓] Certified Cybersecurity Educator Professional (CCEP)   → Red Team Leaders
+[✓] ISO/IEC 27001:2022 Information Security Associate™     → SkillFront
+[✓] Ethical Hacker                                         → Cisco Networking Academy
+[✓] Student SOC Program Foundations Training               → Microsoft
+```
 
 <br/>
+
+---
+
+## `▸ ping practice_platforms`
+
+<br/>
+
+<div align="center">
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Rahat404x-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Rahat404x)
+
+</div>
+
+<br/>
+
+---
+
+## `▸ ./connect.sh`
+
+<br/>
+
+<div align="center">
+
+*Passionate about helping businesses achieve true resilience by embedding*
+*security into the DNA of their processes.*
+
+*Open to: **security research** · **CTF challenges** · **detection engineering** · **GRC consulting***
+
+<br/>
+
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-rahat-rahman-akas-3a51552aa)
+&nbsp;&nbsp;
+[![Send an Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhanrahat51@gmail.com)
+
+<br/><br/>
 
 <sub><i>"I don't just identify vulnerabilities — I build the frameworks that prevent them."</i></sub>
 
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,00b4d8,080c10&height=100&section=footer" width="100%"/>
