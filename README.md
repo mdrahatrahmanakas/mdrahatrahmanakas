@@ -24,10 +24,10 @@
 │                                                                     │
 │  Name      :  Md Rahat Rahman Akas                                  │
 │  Title     :  ISO 27001:2022 Lead Auditor | Cybersecurity Specialist│
-│  Focus     :  GRC · SOC Operations · PenTest · IAM · Compliance    │
+│  Focus     :  GRC & Offensive Security                              │
 │  Location  :  Dhaka, Bangladesh                                     │
 │  Education :  University of the People                              │
-│  Status    :  ● Open to Remote / Hybrid Opportunities              │
+│  Status    :  ● Open to Remote / Hybrid Opportunities               │
 │                                                                     │
 └─────────────────────────────────────────────────────────────────────┘
 ```
@@ -50,10 +50,10 @@
 
 | | Domain | What I Do |
 |:---:|:---:|:---|
-| 🛡️ | **Compliance Leadership** | ISO 27001 audits & GRC frameworks aligned with global regulatory standards |
-| 🔵 | **Technical Defense** | SOC operations, forensic analysis, and Identity & Access Management |
-| 🔴 | **Offensive Insight** | Hands-on vulnerability assessment and penetration testing |
-| 📐 | **Strategic Architecture** | Scalable security designs that keep organizations compliant & competitive |
+| | **Compliance Leadership** | ISO 27001 audits & GRC frameworks aligned with global regulatory standards |
+| | **Technical Defense** | SOC operations, forensic analysis, and Identity & Access Management |
+| | **Offensive Insight** | Hands-on vulnerability assessment and penetration testing |
+| | **Strategic Architecture** | Scalable security designs that keep organizations compliant & competitive |
 
 </div>
 
@@ -65,53 +65,32 @@
 
 <br/>
 
-**`📡 Network Security`**
+<div align="center">
 
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-00469C?style=flat-square&logo=nmap&logoColor=white)
-![tcpdump](https://img.shields.io/badge/tcpdump-003545?style=flat-square&logo=linux&logoColor=white)
-![Zeek](https://img.shields.io/badge/Zeek-2D6DB5?style=flat-square&logo=zeek&logoColor=white)
-![Suricata](https://img.shields.io/badge/Suricata-EF5B25?style=flat-square&logo=suricata&logoColor=white)
-![Netcat](https://img.shields.io/badge/Netcat-000000?style=flat-square&logo=gnu&logoColor=white)
+| GRC & Risk Management | Frameworks & Compliance |
+|:---|:---|
+| `Risk Assessment` `Security Policy` `GRC` `BCP/DR` `Security Awareness` | `ISO 27001` `NIST CSF` `GDPR` `HIPAA` `PCI-DSS` `Gap Assessment` `Audit Management` `Compliance Reporting` |
 
-**`🖥️ Endpoint & EDR`**
+| Threat Intelligence & Strategy | Ethical Hacking & Tools |
+|:---|:---|
+| `Threat Intelligence` `Vulnerability Assessment` `OSINT` `Threat Modeling` | `Penetration Testing` `Splunk` `Sentinel` `Wireshark` `Burp Suite` `Metasploit` `Nmap` `IDS/IPS` |
 
-![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Velociraptor](https://img.shields.io/badge/Velociraptor-8B0000?style=flat-square&logo=linux&logoColor=white)
-![Sysmon](https://img.shields.io/badge/Sysmon-003366?style=flat-square&logo=windows&logoColor=white)
-![OSQuery](https://img.shields.io/badge/OSQuery-1A73E8?style=flat-square&logo=osquery&logoColor=white)
-![CrowdStrike](https://img.shields.io/badge/CrowdStrike-E31B23?style=flat-square&logo=crowdstrike&logoColor=white)
+</div>
 
-**`📊 SIEM & Log Management`**
+<br/>
 
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-3B86D4?style=flat-square&logo=wazuh&logoColor=white)
-![Graylog](https://img.shields.io/badge/Graylog-FF3633?style=flat-square&logo=graylog&logoColor=white)
+<div align="center">
 
-**`⚔️ Offensive Security`**
+**Soft Skills**
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-![Burp Suite Pro](https://img.shields.io/badge/Burp_Suite_Pro-FF6633?style=flat-square&logo=burp-suite&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-00C176?style=flat-square&logo=tenable&logoColor=white)
-![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=flat-square&logo=gnu&logoColor=white)
+![Communication](https://img.shields.io/badge/Communication-2D3748?style=flat-square)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-2D3748?style=flat-square)
+![Leadership](https://img.shields.io/badge/Leadership-2D3748?style=flat-square)
+![Adaptability](https://img.shields.io/badge/Adaptability-2D3748?style=flat-square)
+![Stakeholder Mgmt.](https://img.shields.io/badge/Stakeholder_Mgmt.-2D3748?style=flat-square)
+![Executive Reporting](https://img.shields.io/badge/Executive_Reporting-2D3748?style=flat-square)
 
-**`⚙️ Scripting & Automation`**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-**`📋 Frameworks & Standards`**
-
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-E31B23?style=flat-square&logoColor=white)
-![NIST CSF](https://img.shields.io/badge/NIST_CSF-003366?style=flat-square&logoColor=white)
-![ISO 27001](https://img.shields.io/badge/ISO_27001:2022-0052CC?style=flat-square&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
-![Cyber Kill Chain](https://img.shields.io/badge/Cyber_Kill_Chain-8B0000?style=flat-square&logoColor=white)
+</div>
 
 <br/>
 
@@ -121,12 +100,59 @@
 
 <br/>
 
-```bash
-[✓] ISO/IEC 27001:2022 Lead Auditor                        → Mastermind
-[✓] Certified Cybersecurity Educator Professional (CCEP)   → Red Team Leaders
-[✓] ISO/IEC 27001:2022 Information Security Associate™     → SkillFront
-[✓] Ethical Hacker                                         → Cisco Networking Academy
-[✓] Student SOC Program Foundations Training               → Microsoft
+<div align="center">
+
+| Certification | Issuer | Tags |
+|:---|:---|:---|
+| **ISO/IEC 27001:2022 Lead Auditor** | Mastermind Assurance | `ISMS Auditing` `Risk Management` `ISO 27001` |
+| **ISO/IEC 27001:2022 Information Security Associate™** | SkillFront | `ISO 27001` `Information Security` `Risk Assessment` |
+| **Governance, Risk, Compliance & Data Privacy** | IBM SkillsBuild | `GRC` `Data Privacy` `Compliance` |
+| **Ethical Hacker** | Cisco | `Penetration Testing` `Offensive Security` `Vulnerability Assessment` |
+| **Certified Cybersecurity Educator Professional (CCEP)** | Red Team Leaders | `Instructional Design` `Educational Delivery` `Security Architecture` |
+
+</div>
+
+<br/>
+
+---
+
+## `▸ cat experience.json`
+
+<br/>
+
+```yaml
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  Cybersecurity Consultant — GRC & Offensive Security                    │
+│      Independent · Self-Directed          2025 – Current · Remote          │
+│      ─────────────────────────────────────────────────────────────────────  │
+│      Architecting ISO 27001 and NIST CSF-aligned security programs across   │
+│      GRC, risk management, and offensive security domains. Conducting        │
+│      audit-ready control environments and gap assessments against            │
+│      international standards.                                               │
+│      Tags: ISO 27001  NIST CSF  GRC  Ethical Hacking                       │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  Service Account Manager                                                │
+│      Genex Infosys Ltd. · Grameenphone Enterprise   2023–2025 · Dhaka      │
+│      ─────────────────────────────────────────────────────────────────────  │
+│      Managed corporate client operations for Bangladesh's largest telecom,  │
+│      overseeing SLA compliance, KPI monitoring, and cross-functional        │
+│      service delivery. Recognized with the Attrition Warrior Award          │
+│      (Sept 2023) for outstanding performance under high-pressure ops.       │
+│      Tags: SLA Management  KPI Monitoring  Service Delivery                │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  Penetration Tester & Security Researcher                               │
+│      Mist Leetcon · Riot Center · Independent       2022–2023 · Hybrid     │
+│      ─────────────────────────────────────────────────────────────────────  │
+│      Conducted penetration testing and vulnerability research across CTF    │
+│      environments. Identified system weaknesses, cryptographic flaws, and   │
+│      network entry points. Applied offensive techniques to strengthen        │
+│      defensive postures against real-world attack vectors.                  │
+│      Tags: Red Teaming  Penetration Testing  Vulnerability Research        │
+└─────────────────────────────────────────────────────────────────────────────┘
 ```
 
 <br/>
