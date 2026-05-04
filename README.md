@@ -6,7 +6,7 @@
 
 ![ISO 27001 Lead Auditor](https://img.shields.io/badge/🛡️%20ISO%2027001%3A2022-Lead%20Auditor%20·%20One%20of%20Few%20in%20Bangladesh-00b4d8?style=flat-square)
 ![GRC & Offensive Security](https://img.shields.io/badge/⚔️%20GRC%20%26%20Offensive%20Security-The%20Bridge%20Between%20Both%20Worlds-0077b6?style=flat-square)
-![Open to Work](https://img.shields.io/badge/🤝%20Availability-Remote%20%2F%20Hybrid%20·%20Open%20to%20Engagements-023e8a?style=flat-square)
+![Open to Work](https://img.shields.io/badge/🤝%20Availability-Remote%20%2F%20Hybrid%20·%20Global%20Projects-023e8a?style=flat-square)
 
 <br/>
 
