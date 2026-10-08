@@ -2,10 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Md%20Rahat%20Rahman%20Akas&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20&%20GRC%20Consultant%20•%20ISO%2027001%20&%20NIST%20CSF&descSize=13&descAlignY=65&descColor=06b6d4&animation=fadeIn" width="100%"/>
 
-[![Website](https://img.shields.io/badge/🌐%20Portfolio-rahatgrc.me-000000?style=for-the-badge&logo=google-chrome&logoColor=06b6d4)](https://rahatgrc.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/md-rahat-rahman-akas-3a51552aa)
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:farhanrahat51@gmail.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=06b6d4)](https://tryhackme.com/p/Rahat404x)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-rahatgrc.me-030303?style=for-the-badge&logo=google-chrome&logoColor=06b6d4)](https://rahatgrc.me)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-030303?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/md-rahat-rahman-akas-3a51552aa)
+[![Gmail](https://img.shields.io/badge/GMAIL-Direct_Mail-030303?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:farhanrahat51@gmail.com)
+[![TryHackMe](https://img.shields.io/badge/TRYHACKMME-Profile-030303?style=for-the-badge&logo=tryhackme&logoColor=06b6d4)](https://tryhackme.com/p/Rahat404x)
 
 </div>
 
