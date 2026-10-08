@@ -4,7 +4,7 @@
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-rahatgrc.me-030303?style=for-the-badge&logo=google-chrome&logoColor=06b6d4)](https://rahatgrc.me)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-030303?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/md-rahat-rahman-akas-3a51552aa)
-[![Gmail](https://img.shields.io/badge/GMAIL-Direct_Mail-030303?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:mdrahatrahmanakas@gmail.com)
+<a href="mailto:mdrahatrahmanakas@gmail.com"><img src="https://img.shields.io/badge/GMAIL-Direct_Mail-030303?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email Me"/></a>
 [![TryHackMe](https://img.shields.io/badge/TRYHACKME-Profile-030303?style=for-the-badge&logo=tryhackme&logoColor=06b6d4)](https://tryhackme.com/p/Rahat404x)
 
 </div>
@@ -93,13 +93,12 @@ Executed technical vulnerability assessments and multi-vector penetration tests.
 
 <div align="center">
 
-[![ISO 27001](https://img.shields.io/badge/ISO%2027001-030303?style=flat-square&logo=shield&logoColor=06b6d4)](https://rahatgrc.me)
-[![NIST CSF](https://img.shields.io/badge/NIST%20CSF-030303?style=flat-square&logo=security&logoColor=06b6d4)](https://rahatgrc.me)
-[![SOC 2](https://img.shields.io/badge/SOC%202-030303?style=flat-square&logo=lock&logoColor=06b6d4)](https://rahatgrc.me)
-[![PCI DSS](https://img.shields.io/badge/PCI%20DSS-030303?style=flat-square&logo=pci-dss&logoColor=06b6d4)](https://rahatgrc.me)
-[![Burp Suite](https://img.shields.io/badge/Burp%20Suite-030303?style=flat-square&logo=burpsuite&logoColor=06b6d4)](https://rahatgrc.me)
-[![Metasploit](https://img.shields.io/badge/Metasploit-030303?style=flat-square&logo=kalilinux&logoColor=06b6d4)](https://rahatgrc.me)
-[![Splunk](https://img.shields.io/badge/Splunk-030303?style=flat-square&logo=splunk&logoColor=06b6d4)](https://rahatgrc.me)
+| Operational Domain | Core Tooling & Framework Stack |
+|:---|:---|
+| **🛡️ Governance & Standards** | `ISO 27001:2022` `NIST CSF` `SOC 2` `PCI-DSS` `GDPR` `HIPAA` `ISMS Architecture` |
+| **⚔️ Offensive Operations** | `Burp Suite` `Metasploit` `Nmap` `Wireshark` `OSINT Recon` `Vulnerability Assessment` |
+| **🔬 Detection & SIEM** | `Splunk` `Microsoft Sentinel` `Sigma Rules` `SOC Operations` `Digital Forensics` |
+| **🏢 Enterprise & Risk** | `ERP Security` `Risk Registers` `Statement of Applicability (SoA)` `SLA Management` |
 
 </div>
 
@@ -123,7 +122,7 @@ Executed technical vulnerability assessments and multi-vector penetration tests.
 &nbsp;
 [![LinkedIn Connection](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-rahat-rahman-akas-3a51552aa)
 &nbsp;
-[![Direct Email](https://img.shields.io/badge/DIRECT_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdrahatrahmanakas@gmail.com)
+<a href="mailto:mdrahatrahmanakas@gmail.com"><img src="https://img.shields.io/badge/DIRECT_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/></a>
 
 <br/>
 
